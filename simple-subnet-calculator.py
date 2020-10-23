@@ -1,3 +1,5 @@
+#!/usr/bin/run python3
+
 '''
 
 A simple program to allow a user to input an IP address and CIDR
